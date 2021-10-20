@@ -1,6 +1,11 @@
 ### Hi there 👋
-![info](https://github-readme-stats.vercel.app/api?username=YDKD&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
+![](https://visitor-badge.glitch.me/badge?page_id=YDKD.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=YDKD&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+
+擅长：
+[![](https://img.shields.io/badge/-Vue.js-007396?style=flat-square&logo=Vue.js&logoColor=#4FC08D)](https://cn.vuejs.org/)
 <!--
 **YDKD/YDKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
