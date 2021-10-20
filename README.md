@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Coder 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=YDKD.readme)
 
@@ -6,7 +6,11 @@
 
 擅长：<br />
 [![](https://img.shields.io/badge/-Vue.js-007396?style=flat-square&logo=Vue.js&logoColor=#4FC08D)](https://cn.vuejs.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-4aab4dd1?style=flat-square&logo=JavaScript&logoColor=#000)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)]()
+
+Platform&Tools <br/>
+
+[![]( https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff )]()[![]( https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff )]()
 <!--
 **YDKD/YDKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
