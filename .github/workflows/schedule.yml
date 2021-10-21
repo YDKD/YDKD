@@ -1,36 +1,15 @@
 name: Update gist with WakaTime stats
-
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
   schedule:
-    - cron: "59 0 * * *"
-
+    - cron: "06 0 * * *"
 jobs:
-  build:
-    name: Update-gist
+  update-gist:
     runs-on: ubuntu-latest
-    env:
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: https://gist.github.com/YDKD/031d0de0aac352d9a3255925d3929411
-      GIST_BARSTYLE: SOLIDLT
-      GIST_BARLENGTH: -1
-      GIST_TIMESTYLE: SHORT
-
     steps:
-      - name: Set up Go 1.x
-        uses: actions/setup-go@v2
-        with:
-          go-version: ^1.14
-        id: go
-
-      - name: Check out code into the Go module directory
-        uses: actions/checkout@v2
-
-      - name: Update-gist
-        run: go run ./cmd/box/main.go
+      - uses: actionseckout@master
+      - name: Update gist
+        uses: YDKD/waka-box-go/@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 031d0de0aac352d9a3255925d3929411
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
