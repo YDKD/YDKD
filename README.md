@@ -5,6 +5,9 @@
 ### About me
 ![info](https://github-readme-stats.vercel.app/api?username=YDKD&show_icons=true&theme=cobalt)![YDKD's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YDKD&layout=compact&hide_border=true&langs_count=10)
 
+### My Github Contributions
+[![](https://raw.githubusercontent.com/YDKD/YDKD/main/assets/github-contribution-grid-snake.svg)
+
 擅长：<br />
 [![](https://img.shields.io/badge/-Vue.js-007396?style=flat-square&logo=Vue.js&logoColor=#4FC08D)](https://cn.vuejs.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)]()
