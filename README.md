@@ -4,7 +4,7 @@
 
 ### About me
 
-<p>![info](https://github-readme-stats.vercel.app/api?username=YDKD&show_icons=true&count_private=true&hide=prs&theme=cobalt)![YDKD's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YDKD&layout=compact&hide_border=true&langs_count=10)</p>
+![info](https://github-readme-stats.vercel.app/api?username=YDKD&show_icons=true&count_private=true&hide=prs&theme=cobalt)![YDKD's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YDKD&layout=compact&hide_border=true&langs_count=10)
 
 擅长：<br />
 [![](https://img.shields.io/badge/-Vue.js-007396?style=flat-square&logo=Vue.js&logoColor=#4FC08D)](https://cn.vuejs.org/)
