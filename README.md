@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/-Vue.js-007396?style=flat-square&logo=Vue.js&logoColor=#4FC08D)](https://cn.vuejs.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)]()
 
-Platform&Tools <br/>
+### Platform&Tools <br/>
 
 [![]( https://img.shields.io/badge/macOS-Big%20Sur-292e33?style=flat-square&logo=apple&logoColor=ffffff )]() [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)]() [![]( https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff )]() [![]( https://img.shields.io/badge/iPhone-12-999999?style=flat-square&logo=apple&logoColor=ffffff)]() <br />
 
