@@ -18,7 +18,7 @@
 
 ### Wakatime Statistic
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2019%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
