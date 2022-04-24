@@ -11,6 +11,8 @@
 ### 擅长：<br />
 [![](https://img.shields.io/badge/-Vue.js-007396?style=flat-square&logo=Vue.js&logoColor=#4FC08D)](https://cn.vuejs.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007396?style=flat-square&logo=TypeScript&logoColor=ffffff)]()
+
 
 ### Platform&Tools <br/>
 
