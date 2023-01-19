@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=YDKD.readme)
 
 ### About me
-![info](https://github-readme-stats-ruby-one.vercel.app/api?username=YDKD&show_icons=true&theme=cobalt)![YDKD's Most used languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=YDKD&layout=compact&hide_border=true&langs_count=8)
+![info](https://github-readme-stats.vercel.app/api?username=YDKD&show_icons=true&theme=cobalt)![YDKD's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YDKD&layout=compact&hide_border=true&langs_count=8)
 
 ### My Github Contributions
 ![](https://raw.githubusercontent.com/YDKD/YDKD/main/assets/github-contribution-grid-snake.svg)
